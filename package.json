@@ -1,0 +1,22 @@
+{
+  "name": "cowbear",
+  "private": true,
+  "description": "cowbear",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.76",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonrh/cowbear"
+  }
+}

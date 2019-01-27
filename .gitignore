@@ -1,0 +1,12 @@
+# macOS Finder folder settings files
+.DS_Store
+
+# Webstorm IDE settings folder
+.idea/
+
+# NodeJS third party dependencies
+node_modules/
+
+# Files and folders relating to GatsbyJS
+.cache/
+public/
